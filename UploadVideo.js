@@ -7,7 +7,6 @@ import React, { useState } from 'react'
 function onChangeCaptcha(value) {
     console.log("Captcha value:", value);
 }
-
 function UploadVideo() {
 
 
