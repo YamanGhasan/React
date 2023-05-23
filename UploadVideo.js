@@ -72,7 +72,6 @@ function UploadVideo() {
     const checkboxHandler = () => {
         setAgree(!agree);
     }
-
     const Tags = [
         { id: 0, name: 'c++' },
         { id: 1, name: 'c#' },
