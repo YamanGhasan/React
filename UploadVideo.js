@@ -67,7 +67,6 @@ function UploadVideo() {
         setIsSuccess(true)
     };
 
-
     const [agree, setAgree] = useState(false);
     const checkboxHandler = () => {
         setAgree(!agree);
