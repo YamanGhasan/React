@@ -3,7 +3,6 @@ import Multiselect from 'multiselect-react-dropdown';
 import ReCAPTCHA from "react-google-recaptcha";
 import React, { useState } from 'react'
 
-
 function onChangeCaptcha(value) {
     console.log("Captcha value:", value);
 }
